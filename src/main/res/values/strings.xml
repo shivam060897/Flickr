@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_delete">delete</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="title_activity_phoo_detail">Photo Detail</string>
+    <string name="search">Search</string>
+    <string name="searchable_hint">Enter Photo Tags</string>
+    <string name="emptyphoto">No Photos match your search. Use the search icon to search for photos</string>
+</resources>
